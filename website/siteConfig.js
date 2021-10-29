@@ -12,8 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Kelly Marie Beavers, // Title for your website.
-    tagline: 'Continuously improving, aspiring software developer.',
+    title: 'Kelly Beavers, // Title for your website.
+    tagline: 'Continuously improving, aspiring Software Developer.',
     profilePhoto: 'img/profile.png',
     url: 'https://kmp657.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'kelly-beavers-578b05208/edit/contact-info/',
+        linkedin: 'kelly-beavers-578b05208',
         twitter: 'kellymbeavers',
         github: 'kmp657',
     },
