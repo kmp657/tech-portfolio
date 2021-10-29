@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Kelly Beavers, // Title for your website.
+    title: 'Kelly Beavers', // Title for your website.
     tagline: 'Continuously improving, aspiring Software Developer.',
     profilePhoto: 'img/profile.png',
     url: 'https://kmp657.github.io', // Your website URL
